@@ -1,4 +1,4 @@
-# slidy_flutter_challenge_01
+# slidy_flutter_challenge
 
 - A personal challenge inspired by https://www.behance.net/gallery/79989073/Interactive-animation
 - A Study of flutter animations
